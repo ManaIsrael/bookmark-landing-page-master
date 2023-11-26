@@ -96,4 +96,4 @@ Working with svgs
 - Github - https://github.com/ManaIsrael
 
 ## Acknowledgments
-There are so many people who helped me with anything in many ways, I wouldn't start by saying one.
+Hail Mary.
